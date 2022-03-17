@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+/*
+    Estilos da pagina Index
+*/
+
+*{
+    
+    font-family:  'Orbitron', sans-serif;
+    text-decoration: none
+    
+}
+
+#menu ui li {
+    
+    display: inline;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 20%;
+    
+}
+
+#menu ui li a {
+    
+    color: red;
+
+}
+
+#menu ui li a:hover{
+    
+    
+    color: rgb(176, 255, 58)
+}
+
+#titulo {
+    
+    color: rgb(35, 211, 35);
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Bungee', cursive ;
+    
+}
+
+.centralizar {
+    
+    color: rgb(35, 211, 35);
+    text-align: center;
+    font-size: 50px;
+    font-family: 'Bungee', cursive ;
+}
+
+.container{
+
+    text-align: justify;
+    color: red;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    padding-left: 30px;
+    font-size: 30px;
+    
+}
+
+.container img{
+
+    width: 500px;
+    height: auto;
+    padding-left: 30px;
+}
+
+body {
+
+    background:black
+
+
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+    Estilos da página de contatos
+*/    
